@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/sskiizens/.nuget/packages/": {}
+    "/home/ubuntu/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sskiizens/Documents/DevSecOps_Course/tp2/tp2-infra/tp2-infra.csproj",
+      "projectUniqueName": "/home/ubuntu/Bureau/tp2/tp2-infra.csproj",
       "projectName": "tp2-infra",
-      "projectPath": "/Users/sskiizens/Documents/DevSecOps_Course/tp2/tp2-infra/tp2-infra.csproj",
-      "packagesPath": "/Users/sskiizens/.nuget/packages/",
-      "outputPath": "/Users/sskiizens/Documents/DevSecOps_Course/tp2/tp2-infra/obj/",
+      "projectPath": "/home/ubuntu/Bureau/tp2/tp2-infra.csproj",
+      "packagesPath": "/home/ubuntu/.nuget/packages/",
+      "outputPath": "/home/ubuntu/Bureau/tp2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/sskiizens/.nuget/NuGet/NuGet.Config"
+        "/home/ubuntu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -42,7 +42,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
+        "auditMode": "all"
       },
       "SdkAnalysisLevel": "9.0.100"
     },
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.100-rc.2.24474.11/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

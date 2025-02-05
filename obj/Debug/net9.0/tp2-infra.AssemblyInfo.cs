@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tp2-infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab8695145fc34326f6b31b5d55eef4f7e22e7f18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+240e14539988b0e68182af6ac13452b687e18563")]
 [assembly: System.Reflection.AssemblyProductAttribute("tp2-infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tp2-infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
